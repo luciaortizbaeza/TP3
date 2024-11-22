@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto:ital,wght@1,300&display=swap');
+
+.navbar-brand img {
+    width: 30px; 
+    height: auto; 
+    margin-left: 10px; 
+    vertical-align: middle; 
+}
+
+.navbar-brand {
+    display: flex; 
+    align-items: center; 
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #FFFF;
+}
+
+h1, h3 {
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+}
+
+p, ul {
+    font-weight: 400;
+    color: #212529;
+}
+
+footer {
+    height: 30vh;
+}
